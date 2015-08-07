@@ -25,9 +25,9 @@ set_solver_option('IntFeasTol',1e-8);
 
 %% Load human-specific and rat-specific metabolic models
 % rno = rattus norvegicus
-rno_cobra_load = xls2model('2015_07_rno_cobra.xlsx'); 
+rno_cobra_load = xls2model('iRnoCOBRA.xlsx'); 
 % hsa = homo sapiens
-hsa_cobra_load = xls2model('2015_07_hsa_cobra.xlsx'); 
+hsa_cobra_load = xls2model('iHsaCOBRA.xlsx'); 
 
 % Each model contains the same sets reactions initially.
 % Reactions conisdered "off" have lb and ub equal to 0
