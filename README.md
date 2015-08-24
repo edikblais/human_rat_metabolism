@@ -11,6 +11,6 @@ The fourth script (in MATLAB), integrates gene expression changes into rat and h
 
 The fifth script (in R), uses models generated in the fourth script to generate reaction-state predictions that were used to make predictions described in Figures 6 and 7.
 
-The sixth script (in MATLAB) valides rat and human metabolic models with the ability to perform biologically relevant tasks. New tasks to validate species-specific differences and non-specific functions were added to a compendium of tasks that were adapted from HMR2 and Recon2.
+The sixth script (in MATLAB) validates rat and human metabolic models with the ability to perform biologically relevant tasks. New tasks to validate species-specific differences and non-specific functions were added to a compendium of tasks that were adapted from HMR2 and Recon2.
 
 
