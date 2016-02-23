@@ -1,4 +1,7 @@
 # human_rat_metabolism
+
+# This repository is not currently maintained or in use. Check out www.github.com/edikblais/ratcon for the latest code related to the reconstruction of rat and human metabolic newtorks.
+
 Reconciled reconstructions of rat and human metabolism. Scripts used during the reconstruction of iRno and iHsa are included.
 
 The first script (in R), compares the complexity of gene-protein-reaction (GPR) directly between rat and human metabolic models as described in Figures 2 and 3. This script inputs gene-protein-reaction (GPR) relationship information for various versions of iRno and iHsa to compare the global distribution of GPR sizes between the rat and human models. The goal of this script was to demonstrate that  GPR sizes were consistent across species after prioritizing orthologs during the optimized conversion of iHsa to iRno as well as after manual curation.
